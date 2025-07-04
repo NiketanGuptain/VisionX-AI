@@ -75,7 +75,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ```
 
----
 
-Would you like this `README.md` as a downloadable file or zipped with your full project folder?
-```
